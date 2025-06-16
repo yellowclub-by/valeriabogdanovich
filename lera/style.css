@@ -1,0 +1,30 @@
+h1{
+    font-family:Arsenal SC;
+    color:pink;
+    font-size:60px;
+}
+p{
+    font-family:Monomakh;
+    color:pink;
+    font-size:20px;
+}
+
+button{
+    font-family:Arsenal SC;
+    color:blue;
+    font-size:30px;
+}
+body{
+    background:radial-gradient(blue,pink);
+}
+.countainer1{
+    background-color:blue;
+    width:50%;
+    float:left;
+}
+.countainer2{
+    background-color:pink;
+    width:50%;
+    float:left;
+}
+
